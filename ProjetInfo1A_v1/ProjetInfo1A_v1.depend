@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1494581075 source:d:\users\lattes\documents\phelma\projet info 1a\projetinfo1a_v1\graphe.c
+	"liste.h"
+	"graphe.h"
+	<stdio.h>
+	<stdlib.h>
+
+1494581094 d:\users\lattes\documents\phelma\projet info 1a\projetinfo1a_v1\liste.h
+	<stdio.h>
+	<string.h>
+
+1494581080 d:\users\lattes\documents\phelma\projet info 1a\projetinfo1a_v1\graphe.h
+	"liste.h"
+	<stdio.h>
+	<string.h>
+
